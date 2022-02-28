@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=300&section=header&text=release:Canary&fontColor=000000&fontSize=90)
 ### 👋 Hi there 👋
 
+## Technical Stack
+<img src="https://img.shields.io/badge/kubernetes-blue?style=flat-square&logo=#326CE5&logoColor=white"/></a>&nbsp 
+
 <!--
 **jinnypark9393/jinnypark9393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
