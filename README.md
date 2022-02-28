@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=release:Canary&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=300&section=header&text=release:Canary&fontColor=000000&fontSize=90)
 ### 👋 Hi there 👋
 
 <!--
