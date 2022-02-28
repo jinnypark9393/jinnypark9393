@@ -2,7 +2,7 @@
 ### 👋 Hi there 👋
 
 ## Technical Stack
-<img src="https://img.shields.io/badge/kubernetes-#326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
 
 <!--
 **jinnypark9393/jinnypark9393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
