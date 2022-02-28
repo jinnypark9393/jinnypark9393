@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=release:Canary&fontSize=90)
+### 👋 Hi there 👋
 
 <!--
 **jinnypark9393/jinnypark9393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
