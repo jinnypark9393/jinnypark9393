@@ -10,14 +10,14 @@ Oct 2021 *- Current*
 
 ---
 
-Samsung Group System Cloud Migration Project
+S****** Group System Cloud Migration Project
 
 - Migrated Applications from IaaS/On-premise environment to Container environment
     - BQMS(Bidding Management System): Worked as a main engineer
     - GPPM(Manual Management System) / Audit: Worked as a main engineer
     - BTSP(IT Helpdesk System): Worked as a support engineer
 
-Samsung Literature Information System AWS Cloud Implementation Project 
+S****** Literature Information System AWS Cloud Implementation Project 
 
 - Supported to implement Bastion host to connect to WEB servers and AWS direct connect service
 
