@@ -148,8 +148,6 @@ Bachelor's Degree (Economics)
 
 ## **Links**
 
-<br/>
-
 - [Blog](https://jinnypark9393.github.io/categories/)
 
 - [LinkedIn](https://www.linkedin.com/in/%EC%A7%84%EC%9D%B4-%EB%B0%95-07569118b/)
