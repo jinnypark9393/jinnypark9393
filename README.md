@@ -1,14 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=300&section=header&text=release:Canary&fontColor=000000&fontSize=90)
 <h3 align="center"> 👋 Hi there! I'm a DevOps engineer, Jinny :) 👋 </h3>
-
----
-permalink: /about/
-title: "About"
-toc: true
-toc_sticky: true
-toc_label: "MYSELF"
----
-
 <br/>
 
 ### Work Experience
