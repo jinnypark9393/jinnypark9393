@@ -13,9 +13,6 @@ toc_label: "MYSELF"
 
 ### Work Experience
 
-<br/>
-
-
 **DevOps Engineer**, MYDATA Co., Ltd., *Gyeonggi-do, Korea*
 
 Oct 2021 *- Current*
@@ -75,8 +72,6 @@ Feb 2018 *- Sep 2019*
 
 ## **Education**
 
-<br/>
-
 **Waseda University**
 
 2012-2017
@@ -86,8 +81,6 @@ Bachelor's Degree (Economics)
 <br/><br/>
 
 ## **Skills**
-
-<br/>
 
 - **Cloud Environment**
     
@@ -108,8 +101,6 @@ Bachelor's Degree (Economics)
 <br/><br/>
 
 ## **Certifications**
-
-<br/>
 
 - **Certified Kubernetes Adminstrator**
     
@@ -155,8 +146,6 @@ Bachelor's Degree (Economics)
     
 
 ## **Languages**
-
-<br/>
 
 **English** - Fluent in spoken and written
 
