@@ -2,7 +2,7 @@
 <h3 align="center"> 👋 Hi there! I'm a DevOps engineer, Jinny :) 👋 </h3>
 <br/>
 
-### Work Experience
+## Work Experience
 
 **DevOps Engineer**, MYDATA Co., Ltd., *Gyeonggi-do, Korea*
 
@@ -135,6 +135,7 @@ Bachelor's Degree (Economics)
     
     Issued Jul 2019 / Certificate Number QGYJ84BEY3E416KL
     
+<br/><br/>
 
 ## **Languages**
 
