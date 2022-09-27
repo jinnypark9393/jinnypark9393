@@ -1,12 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=300&section=header&text=release:Canary&fontColor=000000&fontSize=90)
-<h3 align="center"> 👋 Hi there! I'm a DevOps engineer, Jinny :) 👋 </h3>
+<h3 align="center"> 👋 Hi there! I'm a Solutions Architect, Jinny :) 👋 </h3>
 <br/>
 
 ## Work Experience
 
+
+**Solutions Architect**, AWS Korea, *Seoul, Korea*
+
+Sep 2022 *- Current*
+
+---
+
+- *To be updated*
+
+<br/>
+
 **DevOps Engineer**, MYDATA Co., Ltd., *Gyeonggi-do, Korea*
 
-Oct 2021 *- Current*
+Oct 2021 *- Sep 2022
 
 ---
 
